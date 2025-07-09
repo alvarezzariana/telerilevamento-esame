@@ -1,18 +1,22 @@
-# telerilevamento-esame
 
-# Progetto sugli incendi accaduti nell' Amazzonia focalizzato su 3 fattori: 
+# Analisi del cambiamento del Territorio a seguito dell'Incendio in Sardegna 
 
-- Climatici
-- Sociali
-- Politici
+- Pre incendio
+- Post incendio
+- Cambiamenti territorio attorno all'evento verificatosi 
 
   # Obiettivo
 
-  - Identificare i pattern spaziali e temporali degli incendi prendendo i dati da copernicus
-  - Comprendere quali sono i fattori che contribuiscono alla diffusione degli incendi
+  - Raccolta immagine raster dal Satellite Sentinel-2 
+  - Importazione, gestione immagine raster con ogni banda
+  - Calcoli indici per avere analasi quantitativa
+  - Rappresentazione grafica per confronto visivo
 
   # Metodi utilizzati
 
-  - script su github e un linguaggio in R 
+  - Copernicus
+  - GitHub
+  - R-studio
+  
 
   
