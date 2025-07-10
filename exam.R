@@ -17,8 +17,6 @@ sardegna_post <- raster ("Sardegna_6_Agosto.jp2")
 plot(sardegna_pre)
 plot(sardegna_post)
 
-
-
 #Importo le bande Sentinel-2 che mi serviranno per l'analisi
 
 # Bande importate Pre-incendio (Luglio)
