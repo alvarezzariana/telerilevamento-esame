@@ -1,19 +1,18 @@
 
-# Analisi del cambiamento del Territorio a seguito dell'Incendio in Sardegna 
+# Analisi dei cambiamento del territorio a seguito dell'Incendio in Sardegna 
 
 # Obiettivo
 
-  - Raccolta immagine raster dal Satellite Sentinel-2 
-  - Importazione, gestione immagine raster con ogni banda
-  - Calcolo indice per avere analasi quantitativa
-  - Confronto pre - post incendio 
+ - Individuare le aree interessate dall’incendio del luglio 2021
+ - Quantificare gli effetti sulla vegetazione tramite calcolo dell’indice NDVI
 
-  
+
   # Metodi utilizzati
 
-  - Copernicus
-  - GitHub
-  - R-studio
+  - immagini satellitari Sentinel-2
+  - pacchetto "raster"
+  - R
+    
   
 
   
