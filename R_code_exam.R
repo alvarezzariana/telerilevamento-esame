@@ -86,7 +86,7 @@ ndvi_pre <- (b_pre_nir_crop - b_pre_red_crop) / (b_pre_nir_crop + b_pre_red_crop
 ndvi_post <- (b_post_nir_crop - b_post_red_crop) / (b_post_nir_crop + b_post_red_crop)
 
 #Calcolo la differenza dell'indice NDVI prima e dopo l'incendio 
-ndvi_diff <- ndvi_pre - ndvi_post
+ndvi_diff <- ndvi_post - ndvi_pre
 
 # Definizione di una palette di colori 
 cl <- colorRampPalette(c('darkred', 'bisque2', 'blue', 'green'))(100)
