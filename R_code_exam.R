@@ -58,8 +58,7 @@ plotRGB(stack_post_ir,  r = 1, g = 2, b = 3, stretch = "Lin") #False color post
 
 dev.off()
 
-
-#Ritaglio di un'area di interesse 
+#Definizione dell'estensione dell'area che voglio ritagliare 
 ext <- c(460000, 470000, 4435000, 4450000)
 
 #Ritaglio delle bande necessarie
