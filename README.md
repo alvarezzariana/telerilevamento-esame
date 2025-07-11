@@ -1,6 +1,7 @@
 
-# Analisi dei cambiamento del territorio a seguito dell'Incendio in Sardegna 
-   21 Luglio 2021 
+# Analisi dei cambiamento del territorio a seguito dell'Incendio in Sardegna il 21 Luglio 2021 
+
+
 # Obiettivo
 
  - Individuare le aree interessate dall’incendio del luglio 2021
