@@ -1,5 +1,5 @@
 
-#Analisi dei cambiamenti del territorio a seguito dell'incendio 
+#Analisi degli effetti dell'incendio 
 #avvenuto in Sardegna il 21 luglio 2021
 
 #Caricamento dei pacchetti necessari per l'analisi 
@@ -9,7 +9,7 @@ library(viridis)
 library(patchwork)
 
 
-#Impostazione cartella di lavoro dove contenenti i dati 
+#Impostazione cartella di lavoro contenenti i dati 
 setwd("/Users/ari/Documents/Telerilevamento /Sardegna")
 
 #Caricamento immagini Sentinel2 per una prima visualizzazione 
