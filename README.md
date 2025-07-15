@@ -1,10 +1,10 @@
 
-# Analisi degli effetti del territorio a seguito dell'Incendio in Sardegna del 21 Luglio 2021 
+# Analisi degli effetti dell'incendio in Sardegna del 21 Luglio 2021 
 
 
 # Obiettivo
 
- - Individuare le aree interessate dall’incendio del luglio 2021
+ - Individuare le aree interessate dall’incendio 
  - Quantificare gli effetti sulla vegetazione tramite calcolo dell’indice NDVI
 
 
