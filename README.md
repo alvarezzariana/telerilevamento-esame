@@ -1,5 +1,5 @@
 
-# Analisi dei cambiamento del territorio a seguito dell'Incendio in Sardegna il 21 Luglio 2021 
+# Analisi degli effetti del territorio a seguito dell'Incendio in Sardegna del 21 Luglio 2021 
 
 
 # Obiettivo
@@ -11,7 +11,7 @@
   # Metodi utilizzati
 
   - immagini satellitari Sentinel-2
-  - pacchetto "raster"
+  - funzioni pacchetto "raster"
   - R
     
   
